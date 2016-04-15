@@ -1,5 +1,5 @@
-# Social-Authentication-
-facebook,google authentication example
+# Social-Authentication
+Facebook & Google authentication using **Sails Js** & **Angular Js**
 
 ## Tech Stack
 * Angular Js
@@ -7,7 +7,10 @@ facebook,google authentication example
 * Mongo Db
 
 ### Dependencies
-* Bower
+* **Bower**
+
 > bower install
-* Npm
+
+* **Npm**
+
 > npm install
