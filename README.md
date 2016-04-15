@@ -1,3 +1,2 @@
-# fbgoogleauth
-
-a [Sails](http://sailsjs.org) application
+# Social-Authentication-
+facebook,google authentication example
