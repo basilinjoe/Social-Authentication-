@@ -7,5 +7,7 @@ facebook,google authentication example
 * Mongo Db
 
 ### Dependencies
-* Bower > bower install
-* Npm > npm install
+* Bower
+> bower install
+* Npm
+> npm install
