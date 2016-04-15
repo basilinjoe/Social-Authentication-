@@ -5,6 +5,7 @@ facebook,google authentication example
 * Angular Js
 * Sails Js
 * Mongo Db
+
 ### Dependencies
 * Bower > bower install
-* Npm > npm install 
+* Npm > npm install
